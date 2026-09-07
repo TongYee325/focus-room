@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 export const metadata: Metadata = {
-  metadataBase: new URL('https://focus-room-training.social-dell-7370.chatgpt.site'),
+  metadataBase: new URL('https://focus-room-training.l1245468827.chatgpt.site'),
   title: '专注训练室 · Focus Room',
   icons: { icon: '/favicon.svg' },
   description:

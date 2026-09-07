@@ -1,6 +1,6 @@
 # 专注训练室 · Focus Room
 
-在线访问：https://focus-room-training.social-dell-7370.chatgpt.site
+在线访问：https://focus-room-training.l1245468827.chatgpt.site
 
 电脑优先、兼容触屏的夜间主题认知训练网页。提供舒尔特方格、色卡冲突、序列记忆（空间 / 数字）和动态追踪。舒尔特方格与色卡冲突支持简单、普通、困难、专家四档；序列记忆和动态追踪另有极限档。
 
